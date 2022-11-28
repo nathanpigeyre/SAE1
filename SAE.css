@@ -5,12 +5,13 @@
   * {margin: 0px;
     padding: 0px;
     font-family:Roboto, Montserrat, sans-serif;
-    padding-left: 10%;
-    padding-right: 10%;}
+    }
     
     body{
       font-size: x-large;
       font-weight: bold;
+    padding-left: 10%;
+    padding-right: 10%;
     }
 
     nav {width: 100%;
