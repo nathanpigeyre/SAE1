@@ -105,7 +105,9 @@
     float: left;
     padding-right: 2%;
     padding-left: 2%;}
-
+    .collège > a{
+      padding-right: 10%;
+    }
 
   .lycee{text-align: justify;}
   h3{float: right;
